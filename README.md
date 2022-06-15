@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jasontwichell/jasontwichell/blob/master/devcard.svg" width="400" alt="CF Professor Dev Card"/></a>
+<img src="https://github.com/jasontwichell/jasontwichell/blob/main/devcard.svg" width="400" alt="CF Professor Dev Card"/>
 
 <!--
 **JasonTwichell/JasonTwichell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
